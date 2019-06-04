@@ -1,0 +1,19 @@
+{
+    "name": "nodejs_fun",
+    "version": "1.0.0",
+    "description": "",
+    "main": "index.js",
+    "scripts": {
+        "test": "echo \"Error: no test specified\" && exit 1",
+        "start": "node server.js"
+    },
+    "repository": {
+        "type": "git",
+        "url": "git+https://github.com/glotovdi/nodejs_fun.git"
+    },
+    "author": "",
+    "license": "ISC",
+    "dependencies": {
+        "node-static": "^0.7.11"
+    }
+}
